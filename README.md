@@ -6,8 +6,8 @@ not well enough documented for public use.
 GenerateArduinoCode_10Jan18.xlsm  
 ========  
 Generates arduino code in the same folder as itself.
-declare the pins in the excel sheet, and use the checkboxes to generate template code for various sheilds and add-on boards.
-I'm adding code for various things as i find them/see them as useful
+declare the pins in the excel sheet, and use the checkboxes to generate template code for various shields and add-on boards.
+I'm adding code for various things as O find them/see them as useful
 
 
 ProcCodeManager10Jan17.xlsm  
